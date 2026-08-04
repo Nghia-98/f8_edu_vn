@@ -1,3 +1,6 @@
 [submodule "day2_html"]
 	path = day2_html
 	url = git@github.com-personal2:Nghia-98/day2_html.git
+[submodule "day3_html_css"]
+	path = day3_html_css
+	url = git@github.com-personal2:Nghia-98/day3-html-css.git
