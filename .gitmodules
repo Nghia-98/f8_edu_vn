@@ -4,3 +4,6 @@
 [submodule "day3_html_css"]
 	path = day3_html_css
 	url = git@github.com-personal2:Nghia-98/day3-html-css.git
+[submodule "day04-html-css"]
+	path = day04-html-css
+	url = git@github.com-personal2:Nghia-98/day04-html-css.git
